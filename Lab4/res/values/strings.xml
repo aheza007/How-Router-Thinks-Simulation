@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"CRC_classInLL2P "</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="IPAddressMessage">IPAddress: </string>
+    <string name="IPAddress">Unknown</string>
+    <string name="SourceAddress">Unknown</string>
+    <string name="DestinationAddress">Unknown</string>
+    <string name="Type">Unknown</string>
+    <string name="Payload">Unknown</string>
+    <string name="CRCValue">0000</string>
+    <string name="DestAddrlabel">DestAddr:</string>
+    <string name="SourceAddrLabel">SrcAddr:</string>
+    <string name="TypeLabel">Type:</string>
+    <string name="PayloadLabel">Payload:</string>
+    <string name="CRCLabel">CRCValue:</string>
+    <string name="LL2PAddress">LL2P Address</string>
+    <string name="IPADDRESS">IPAddress</string>
+    <string name="newMACAddress">newMAC</string>
+    <string name="newIPAddress">newIPAddress</string>
+    <string name="UNKNOWN">NEWMACDESTINATION</string>
+    <string name="NewMACdEST">UNKNOWN</string>
+    <string name="srcMAC">UNKNOWN</string>
+    <string name="TYPEVal">UNKNOWN</string>
+    <string name="TypeValue">Unknown</string>
+    <string-array name="AdjacencyTableContentlistView1">
+        <item >IPAddress 1</item>
+        <item >IPAddress2</item>
+    </string-array>
+        <string name="ADD">ADD</string>
+        <string name="IPAddressTextField">"IPAddress: "</string>
+        <string name="MACAddressLabel">"LL2P Address: "</string>
+        <string-array name="TableOfAddress">
+            <item >Entry1</item>
+            <item >Entry2</item>
+        </string-array>
+        <string-array name="RoutingList">
+            <item >Entry1</item>
+            <item >Entry2</item>
+        </string-array>
+        <string-array name="ForwardingList">
+            <item >Entry1</item>
+            <item >Entry2</item>
+        </string-array>
+        
+    <string name="name_prompt">Send to?</string>
+        
+    <string name="OpenMessenger">OpenMessenger</string>
+</resources>
